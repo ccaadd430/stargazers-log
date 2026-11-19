@@ -1,0 +1,20 @@
+[
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "Open-source curriculum and projects for learning web development.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of useful and interesting open-source resources.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starred_at": "2025-01-28"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for building full-stack web applications.",
+    "url": "https://github.com/vercel/next.js",
+    "starred_at": "2024-12-05"
+  }
+]
